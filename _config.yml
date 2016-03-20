@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#D0C0A0'
+    - '#802010'
+    - '#A08860'
+    - '#B03820'
+    - '#E0D8B8'
+  brandStrength: 0.832905
+  lightness: 0.851484
+  rhythmicContrast: 0.923868
+  saturation: 0.19291
+cta: {}
+layout_spectrum: 0.802927
+name: KidViews
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.057230642166262835
